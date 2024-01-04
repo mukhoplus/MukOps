@@ -1,0 +1,29 @@
+{
+  "name": "mukops",
+  "version": "1.0.0",
+  "description": "Building CI/CD Pipeline with Jenkins and Docker",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mukhoplus/MukOps.git"
+  },
+  "keywords": [
+    "github",
+    "oracle",
+    "jenkins",
+    "docker"
+  ],
+  "author": "Mukho",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mukhoplus/MukOps/issues"
+  },
+  "homepage": "https://github.com/mukhoplus/MukOps#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
