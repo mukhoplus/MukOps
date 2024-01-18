@@ -1,3 +1,3 @@
-const TEST_VERSION = 3;
+const TEST_VERSION = 4;
 
 export default TEST_VERSION;

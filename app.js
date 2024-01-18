@@ -30,6 +30,6 @@ app.get("/", (req, res) => {
 });
 
 // RUN
-app.listen(PORT, () => {
+app.listen(PORT, "0.0.0.0", () => {
   console.log(`${PORT}번 포트에서 서버 실행 중입니다.`);
 });
